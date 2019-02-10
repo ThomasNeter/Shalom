@@ -1,1 +1,1 @@
-BibimBox react game using Solace.
+BibimBox C++ game using Solace.
